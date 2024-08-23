@@ -1,4 +1,4 @@
 # クイズゲーム
 チームメンバー
- - @kitashuu
+ - @kitashuuuu
  - @surumeika07
